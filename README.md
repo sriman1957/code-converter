@@ -78,7 +78,7 @@ This project is for educational and portfolio purposes.
 
 **SRIMAN**
 
-- GitHub: [@yourusername](https://github.com/sriman1957)
+- GitHub: [@sriman1957](https://github.com/sriman1957)
 
 ---
 
